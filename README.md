@@ -16,4 +16,5 @@ the "Deliver" stage of your Pipeline.
 echo "hi hello"
 hi 
 hello
+hi
 
